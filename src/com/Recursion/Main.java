@@ -54,6 +54,7 @@ public class Main {
                 break;
             }
         }
+        // count will be incremented till sum will be greater than or equal to.
         if(sum<res){
             return 0;
         }
